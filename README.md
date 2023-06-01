@@ -70,7 +70,7 @@ Decompiler Grouping:
                         Disables grouping return undefined after return.
 ```
 
-Example
+Process
 ------------
 
 The following diagram shows how a simple JavaScript file is transformed into the various states.
